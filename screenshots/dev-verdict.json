@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Jakarta Pusat: The Last Delivery",
+      "hasCanvas": true,
+      "bodyTextLen": 490,
+      "bodyTextHash": "9673655e6fe0d41e798a1cb3d9c3195e33de8875ba7cf608a1cd0999bac3fb5a",
+      "bodyTextPrefix": "The Last Delivery. Cars and people pathfind on their own. Press ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Jakarta Pusat: The Last Delivery",
+      "hasCanvas": true,
+      "bodyTextLen": 490,
+      "bodyTextHash": "9673655e6fe0d41e798a1cb3d9c3195e33de8875ba7cf608a1cd0999bac3fb5a",
+      "bodyTextPrefix": "The Last Delivery. Cars and people pathfind on their own. Press ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

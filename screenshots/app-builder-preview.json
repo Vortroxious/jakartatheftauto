@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Jakarta Pusat: The Last Delivery",
+      "hasCanvas": true,
+      "bodyTextLen": 605,
+      "bodyTextHash": "b97b050d84aaa66d489cfed3cd6a32b4eff42aaf09b8943048ebd9ca5cae6411",
+      "bodyTextPrefix": "The Last Delivery. Cars and people pathfind on their own. Press ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Jakarta Pusat: The Last Delivery",
+      "hasCanvas": true,
+      "bodyTextLen": 605,
+      "bodyTextHash": "b97b050d84aaa66d489cfed3cd6a32b4eff42aaf09b8943048ebd9ca5cae6411",
+      "bodyTextPrefix": "The Last Delivery. Cars and people pathfind on their own. Press ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text changed (490 -> 605 chars, hash mismatch)",
+    "mobile: body text changed (490 -> 605 chars, hash mismatch)"
+  ]
+}
